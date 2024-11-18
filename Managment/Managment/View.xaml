@@ -1,0 +1,41 @@
+﻿<Page x:Class="Managment.View"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Managment"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="View">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/tangiro.jpeg"/>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Content="Pendung/ in Progress" Grid.Row="0" HorizontalAlignment="Center" Height="70"  VerticalAlignment="Center" Width="422" FontSize="36" FontStyle="Italic" FontWeight="Bold" Foreground="White"/>
+        <DataGrid HorizontalAlignment="Center" Height="125"  Grid.RowSpan="1" Grid.Row="1" VerticalAlignment="Top" Width="548" />
+
+        <StackPanel Orientation="Horizontal" Grid.Row="4"  HorizontalAlignment="Center" VerticalAlignment="Center"  Grid.RowSpan="3" >
+            <Label Content="Task" FontSize="24" Foreground="White" ></Label>
+            <TextBox Height="50" Width="100"></TextBox>
+            <Label Content="Status" FontSize="24" Foreground="White" ></Label>
+            <ComboBox Width="150">
+                <ComboBoxItem> Completed</ComboBoxItem>
+                <ComboBoxItem>UnCompleted</ComboBoxItem>
+
+            </ComboBox>
+            <Button Width="100"   ></Button>
+        </StackPanel>
+        <Label Content="Completed" Grid.Row="2" FontSize="24" Foreground="#FFFFF2F2" Margin="0,0,0,81" Grid.RowSpan="2"></Label>
+        <DataGrid  HorizontalAlignment="Left" Height="103" Margin="86,0,0,0" Grid.Row="3" VerticalAlignment="Top" Width="588" />
+
+    </Grid>
+</Page>

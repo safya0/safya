@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\safya\\source\\repos\\Managment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4C4E8E-F22B-43B2-AD43-5A9D590D6B08}|Managment\\Managment.csproj|c:\\users\\safya\\source\\repos\\managment\\managment\\management.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4C4E8E-F22B-43B2-AD43-5A9D590D6B08}|Managment\\Managment.csproj|solutionrelative:managment\\management.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4C4E8E-F22B-43B2-AD43-5A9D590D6B08}|Managment\\Managment.csproj|c:\\users\\safya\\source\\repos\\managment\\managment\\management.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF4C4E8E-F22B-43B2-AD43-5A9D590D6B08}|Managment\\Managment.csproj|solutionrelative:managment\\management.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4C4E8E-F22B-43B2-AD43-5A9D590D6B08}|Managment\\Managment.csproj|c:\\users\\safya\\source\\repos\\managment\\managment\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4C4E8E-F22B-43B2-AD43-5A9D590D6B08}|Managment\\Managment.csproj|solutionrelative:managment\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4C4E8E-F22B-43B2-AD43-5A9D590D6B08}|Managment\\Managment.csproj|c:\\users\\safya\\source\\repos\\managment\\managment\\view.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF4C4E8E-F22B-43B2-AD43-5A9D590D6B08}|Managment\\Managment.csproj|solutionrelative:managment\\view.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4C4E8E-F22B-43B2-AD43-5A9D590D6B08}|Managment\\Managment.csproj|c:\\users\\safya\\source\\repos\\managment\\managment\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4C4E8E-F22B-43B2-AD43-5A9D590D6B08}|Managment\\Managment.csproj|solutionrelative:managment\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4C4E8E-F22B-43B2-AD43-5A9D590D6B08}|Managment\\Managment.csproj|c:\\users\\safya\\source\\repos\\managment\\managment\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF4C4E8E-F22B-43B2-AD43-5A9D590D6B08}|Managment\\Managment.csproj|solutionrelative:managment\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4C4E8E-F22B-43B2-AD43-5A9D590D6B08}|Managment\\Managment.csproj|c:\\users\\safya\\source\\repos\\managment\\managment\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF4C4E8E-F22B-43B2-AD43-5A9D590D6B08}|Managment\\Managment.csproj|solutionrelative:managment\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4C4E8E-F22B-43B2-AD43-5A9D590D6B08}|Managment\\Managment.csproj|c:\\users\\safya\\source\\repos\\managment\\managment\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{CF4C4E8E-F22B-43B2-AD43-5A9D590D6B08}|Managment\\Managment.csproj|solutionrelative:managment\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\safya\\source\\repos\\Managment\\Managment\\Model1.edmx",
+              "RelativeDocumentMoniker": "Managment\\Model1.edmx",
+              "ToolTip": "C:\\Users\\safya\\source\\repos\\Managment\\Managment\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Managment\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-17T09:41:34.714Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Management.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\safya\\source\\repos\\Managment\\Managment\\Management.xaml.cs",
+              "RelativeDocumentMoniker": "Managment\\Management.xaml.cs",
+              "ToolTip": "C:\\Users\\safya\\source\\repos\\Managment\\Managment\\Management.xaml.cs",
+              "RelativeToolTip": "Managment\\Management.xaml.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAwE8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:56:06.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Management.xaml",
+              "DocumentMoniker": "C:\\Users\\safya\\source\\repos\\Managment\\Managment\\Management.xaml",
+              "RelativeDocumentMoniker": "Managment\\Management.xaml",
+              "ToolTip": "C:\\Users\\safya\\source\\repos\\Managment\\Managment\\Management.xaml",
+              "RelativeToolTip": "Managment\\Management.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T07:48:31.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\safya\\source\\repos\\Managment\\Managment\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Managment\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\safya\\source\\repos\\Managment\\Managment\\Login.xaml.cs",
+              "RelativeToolTip": "Managment\\Login.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:39:21.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "View.xaml",
+              "DocumentMoniker": "C:\\Users\\safya\\source\\repos\\Managment\\Managment\\View.xaml",
+              "RelativeDocumentMoniker": "Managment\\View.xaml",
+              "ToolTip": "C:\\Users\\safya\\source\\repos\\Managment\\Managment\\View.xaml",
+              "RelativeToolTip": "Managment\\View.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T07:26:00.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\safya\\source\\repos\\Managment\\Managment\\Login.xaml",
+              "RelativeDocumentMoniker": "Managment\\Login.xaml",
+              "ToolTip": "C:\\Users\\safya\\source\\repos\\Managment\\Managment\\Login.xaml",
+              "RelativeToolTip": "Managment\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T07:23:22.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\safya\\source\\repos\\Managment\\Managment\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Managment\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\safya\\source\\repos\\Managment\\Managment\\MainWindow.xaml",
+              "RelativeToolTip": "Managment\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T07:23:05.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\safya\\source\\repos\\Managment\\Managment\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Managment\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\safya\\source\\repos\\Managment\\Managment\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Managment\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:23:04.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
